@@ -1,0 +1,121 @@
+[
+    {
+        "id": 1,
+        "tipoOperacion": "crear",
+        "nombreProyecto": "leo",
+        "fecha": "2024-12-01",
+        "descripcion": "cambio de luz"
+    },
+    {
+        "id": 2,
+        "tipoOperacion": "Eliminar Proyecto",
+        "nombreProyecto": "leo",
+        "fecha": "2024-12-01",
+        "descripcion": "Se elimin\u00f3 el proyecto con ID 1."
+    },
+    {
+        "id": 3,
+        "tipoOperacion": "Crear Proyecto",
+        "nombreProyecto": "Solar",
+        "fecha": "2024-12-01",
+        "descripcion": "Se cre\u00f3 el proyecto Solar."
+    },
+    {
+        "id": 4,
+        "tipoOperacion": "Crear Proyecto",
+        "nombreProyecto": "Vientos",
+        "fecha": "2024-12-01",
+        "descripcion": "Se cre\u00f3 el proyecto Vientos."
+    },
+    {
+        "id": 5,
+        "tipoOperacion": "Crear Proyecto",
+        "nombreProyecto": "Fotovoltio ",
+        "fecha": "2024-12-01",
+        "descripcion": "Se cre\u00f3 el proyecto Fotovoltio ."
+    },
+    {
+        "id": 6,
+        "tipoOperacion": "Crear Proyecto",
+        "nombreProyecto": "Azul Solar",
+        "fecha": "2024-12-01",
+        "descripcion": "Se cre\u00f3 el proyecto Azul Solar."
+    },
+    {
+        "id": 7,
+        "tipoOperacion": "Crear Proyecto",
+        "nombreProyecto": "Eco Ray",
+        "fecha": "2024-12-01",
+        "descripcion": "Se cre\u00f3 el proyecto Eco Ray."
+    },
+    {
+        "id": 8,
+        "tipoOperacion": "Crear Proyecto",
+        "nombreProyecto": "Green Power",
+        "fecha": "2024-12-01",
+        "descripcion": "Se cre\u00f3 el proyecto Green Power."
+    },
+    {
+        "id": 9,
+        "tipoOperacion": "Crear Proyecto",
+        "nombreProyecto": "Alfa Energia",
+        "fecha": "2024-12-01",
+        "descripcion": "Se cre\u00f3 el proyecto Alfa Energia."
+    },
+    {
+        "id": 10,
+        "tipoOperacion": "Crear Proyecto",
+        "nombreProyecto": "Electro Expert",
+        "fecha": "2024-12-01",
+        "descripcion": "Se cre\u00f3 el proyecto Electro Expert."
+    },
+    {
+        "id": 11,
+        "tipoOperacion": "Crear Proyecto",
+        "nombreProyecto": "Electro Sostenible",
+        "fecha": "2024-12-01",
+        "descripcion": "Se cre\u00f3 el proyecto Electro Sostenible."
+    },
+    {
+        "id": 12,
+        "tipoOperacion": "Crear Proyecto",
+        "nombreProyecto": "Tec Terra",
+        "fecha": "2024-12-01",
+        "descripcion": "Se cre\u00f3 el proyecto Tec Terra."
+    },
+    {
+        "id": 13,
+        "tipoOperacion": "Crear Proyecto",
+        "nombreProyecto": "Calido Solaris",
+        "fecha": "2024-12-01",
+        "descripcion": "Se cre\u00f3 el proyecto Calido Solaris."
+    },
+    {
+        "id": 14,
+        "tipoOperacion": "Crear Proyecto",
+        "nombreProyecto": "HidroSuper",
+        "fecha": "2024-12-01",
+        "descripcion": "Se cre\u00f3 el proyecto HidroSuper."
+    },
+    {
+        "id": 15,
+        "tipoOperacion": "Crear Proyecto",
+        "nombreProyecto": "Paneles E",
+        "fecha": "2024-12-01",
+        "descripcion": "Se cre\u00f3 el proyecto Paneles E."
+    },
+    {
+        "id": 16,
+        "tipoOperacion": "Crear Proyecto",
+        "nombreProyecto": "basic Energy",
+        "fecha": "2024-12-01",
+        "descripcion": "Se cre\u00f3 el proyecto basic Energy."
+    },
+    {
+        "id": 17,
+        "tipoOperacion": "Crear Proyecto",
+        "nombreProyecto": "MarEneergy",
+        "fecha": "2024-12-01",
+        "descripcion": "Se cre\u00f3 el proyecto MarEneergy."
+    }
+]

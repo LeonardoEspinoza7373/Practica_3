@@ -1,0 +1,217 @@
+[
+    {
+        "id": 1,
+        "nombre": "Solar",
+        "descripcion": "Proyecto de paneles solares en Zamora",
+        "inversion": 1000000.0,
+        "tiempoVida": 4,
+        "fechaInicio": "2001-02-10",
+        "fechaFin": "2005-05-04",
+        "inversionistas": [
+            "Bytec",
+            " Electra"
+        ],
+        "electricidadGeneradaDiaria": 1000.0
+    },
+    {
+        "id": 2,
+        "nombre": "Vientos",
+        "descripcion": "proyecto eolico en la provincia de Quito",
+        "inversion": 6000000.0,
+        "tiempoVida": 15,
+        "fechaInicio": "1999-02-12",
+        "fechaFin": "2004-08-07",
+        "inversionistas": [
+            "Voltio",
+            " EnergiaRenovable"
+        ],
+        "electricidadGeneradaDiaria": 20000.0
+    },
+    {
+        "id": 3,
+        "nombre": "Fotovoltio ",
+        "descripcion": "proyecto termoelectrico en salinas ",
+        "inversion": 9000000.0,
+        "tiempoVida": 20,
+        "fechaInicio": "2005-06-06",
+        "fechaFin": "2015-07-07",
+        "inversionistas": [
+            "FuerzaElectrica",
+            " ElectroIdeas",
+            " MarxElectry"
+        ],
+        "electricidadGeneradaDiaria": 45000.0
+    },
+    {
+        "id": 4,
+        "nombre": "Azul Solar",
+        "descripcion": "energia renovable para guayaquil ",
+        "inversion": 5000000.0,
+        "tiempoVida": 6,
+        "fechaInicio": "2008-05-07",
+        "fechaFin": "20014-03-13",
+        "inversionistas": [
+            "EnergiaTotal",
+            " MarineElectric"
+        ],
+        "electricidadGeneradaDiaria": 900.0
+    },
+    {
+        "id": 5,
+        "nombre": "Eco Ray",
+        "descripcion": "proyecto innovador ecologico ",
+        "inversion": 750000.0,
+        "tiempoVida": 6,
+        "fechaInicio": "2018-09-06",
+        "fechaFin": "2025-03-06",
+        "inversionistas": [
+            "Electro Valencia",
+            " EnergiaSuprem"
+        ],
+        "electricidadGeneradaDiaria": 1600.0
+    },
+    {
+        "id": 6,
+        "nombre": "Green Power",
+        "descripcion": "proyecto verde para las zonas contaminadas del Ecuador ",
+        "inversion": 950000.0,
+        "tiempoVida": 10,
+        "fechaInicio": "2002-05-19",
+        "fechaFin": "2007-05-06",
+        "inversionistas": [
+            "Renovable Norte",
+            " Renovable Sur"
+        ],
+        "electricidadGeneradaDiaria": 950.0
+    },
+    {
+        "id": 7,
+        "nombre": "Alfa Energia",
+        "descripcion": "mega proyecto de energia hidroelectrico en pastaza ",
+        "inversion": 10000000.0,
+        "tiempoVida": 25,
+        "fechaInicio": "1988-04-08",
+        "fechaFin": "2006-08-07",
+        "inversionistas": [
+            "CruceroElectric",
+            " FuerzaAzul",
+            " MaritimEcols"
+        ],
+        "electricidadGeneradaDiaria": 8500.0
+    },
+    {
+        "id": 8,
+        "nombre": "Electro Expert",
+        "descripcion": "proyecto de energia impulsado mediante la inteligencia artificial ",
+        "inversion": 500000.0,
+        "tiempoVida": 7,
+        "fechaInicio": "2015-09-06",
+        "fechaFin": "2029-06-12",
+        "inversionistas": [
+            "Polaris",
+            " Infinity",
+            " SolucionsTec"
+        ],
+        "electricidadGeneradaDiaria": 1200.0
+    },
+    {
+        "id": 9,
+        "nombre": "Electro Sostenible",
+        "descripcion": "proyecto que emplea soluciones limpia en favor del ecosistema ",
+        "inversion": 150000.0,
+        "tiempoVida": 5,
+        "fechaInicio": "2020-03-26",
+        "fechaFin": "2022-06-09",
+        "inversionistas": [
+            "Chispa Electtrica",
+            " EnergeticSOld"
+        ],
+        "electricidadGeneradaDiaria": 690.0
+    },
+    {
+        "id": 10,
+        "nombre": "Tec Terra",
+        "descripcion": "proyecto innovador impulsando las areas verdes de la sierra Ecuatoriana",
+        "inversion": 170000.0,
+        "tiempoVida": 8,
+        "fechaInicio": "2011-03-06",
+        "fechaFin": "2017-09-08",
+        "inversionistas": [
+            "Terra Verde",
+            " SolutionsImec"
+        ],
+        "electricidadGeneradaDiaria": 2800.0
+    },
+    {
+        "id": 11,
+        "nombre": "Calido Solaris",
+        "descripcion": "proyecto economico para la costa",
+        "inversion": 50000.0,
+        "tiempoVida": 3,
+        "fechaInicio": "2018-08-25",
+        "fechaFin": "2019-09-23",
+        "inversionistas": [
+            "Electro Vida",
+            " Future Strongs"
+        ],
+        "electricidadGeneradaDiaria": 300.0
+    },
+    {
+        "id": 12,
+        "nombre": "HidroSuper",
+        "descripcion": "proyecto hidroelectrico en santiago",
+        "inversion": 12000000.0,
+        "tiempoVida": 26,
+        "fechaInicio": "2000-07-04",
+        "fechaFin": "2020-06-07",
+        "inversionistas": [
+            "Electro Services",
+            " Soluciones a Futuro",
+            " ExtendsProElectry"
+        ],
+        "electricidadGeneradaDiaria": 10000.0
+    },
+    {
+        "id": 13,
+        "nombre": "Paneles E",
+        "descripcion": "proyecto usando paneles solares en la costa ",
+        "inversion": 6000000.0,
+        "tiempoVida": 9,
+        "fechaInicio": "2018-05-04",
+        "fechaFin": "2023-06-01",
+        "inversionistas": [
+            "USA Energy",
+            " Electro Madrid"
+        ],
+        "electricidadGeneradaDiaria": 780.0
+    },
+    {
+        "id": 14,
+        "nombre": "basic Energy",
+        "descripcion": "proyecto de energia termoelectrico ",
+        "inversion": 2000000.0,
+        "tiempoVida": 13,
+        "fechaInicio": "2000-05-09",
+        "fechaFin": "2014-08-07",
+        "inversionistas": [
+            "Electric Confiable",
+            " Electro Segura"
+        ],
+        "electricidadGeneradaDiaria": 14000.0
+    },
+    {
+        "id": 15,
+        "nombre": "MarEneergy",
+        "descripcion": "proyecto que impulsa energia electrica gracias a las mareas",
+        "inversion": 120000.0,
+        "tiempoVida": 10,
+        "fechaInicio": "2022-01-07",
+        "fechaFin": "2029-06-09",
+        "inversionistas": [
+            "Energo",
+            " EnergiaFusion",
+            " TotalEnergy"
+        ],
+        "electricidadGeneradaDiaria": 8300.0
+    }
+]
