@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="card shadow p-4">
+    <h2 class="text-center text-primary">{{ title }}</h2>
+    <form method="POST">
+        <div class="mb-3">
+            <label for="tipoOperacion" class="form-label">Tipo de Operación:</label>
+            <input type="text" name="tipoOperacion" id="tipoOperacion" class="form-control" required>
+        </div>
+        <div class="mb-3">
+            <label for="nombreProyecto" class="form-label">Nombre del Proyecto:</label>
+            <select name="nombreProyecto" id="nombreProyecto" class="form-select" required>
+                {% for proyecto in proyectos %}
+                <option value="{{ proyecto.nombre }}">{{ proyecto.nombre }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="mb-3">
+            <label for="descripcion" class="form-label">Descripción:</label>
+            <input type="text" name="descripcion" id="descripcion" class="form-control" required>
+        </div>
+        <button type="submit" class="btn btn-success mt-3 w-100">Guardar</button>
+    </form>
+</div>
+{% endblock %}

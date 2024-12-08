@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="card shadow p-4">
+    <h2 class="text-center text-primary">{{ title }}</h2>
+    <form method="POST">
+        <div class="row g-3">
+            <div class="col-md-6">
+                <label for="nombre" class="form-label">Nombre:</label>
+                <input type="text" name="nombre" id="nombre" class="form-control" value="{{ proyecto.get('nombre', '') }}" required>
+            </div>
+            <div class="col-md-6">
+                <label for="descripcion" class="form-label">Descripción:</label>
+                <input type="text" name="descripcion" id="descripcion" class="form-control" value="{{ proyecto.get('descripcion', '') }}" required>
+            </div>
+            <div class="col-md-6">
+                <label for="inversion" class="form-label">Inversión:</label>
+                <input type="number" name="inversion" id="inversion" class="form-control" value="{{ proyecto.get('inversion', 0) }}" required>
+            </div>
+            <div class="col-md-6">
+                <label for="tiempoVida" class="form-label">Tiempo de Vida:</label>
+                <input type="number" name="tiempoVida" id="tiempoVida" class="form-control" value="{{ proyecto.get('tiempoVida', 0) }}" required>
+            </div>
+            <div class="col-md-6">
+                <label for="fechaInicio" class="form-label">Fecha de Inicio:</label>
+                <input type="date" name="fechaInicio" id="fechaInicio" class="form-control" value="{{ proyecto.get('fechaInicio', '') }}" required>
+            </div>
+            <div class="col-md-6">
+                <label for="fechaFin" class="form-label">Fecha de Fin:</label>
+                <input type="date" name="fechaFin" id="fechaFin" class="form-control" value="{{ proyecto.get('fechaFin', '') }}" required>
+            </div>
+            <div class="col-md-6">
+                <label for="inversionistas" class="form-label">Inversionistas:</label>
+                <input type="text" name="inversionistas" id="inversionistas" class="form-control" value="{{ proyecto.get('inversionistas', '') }}" required>
+            </div>
+            <div class="col-md-6">
+                <label for="electricidadGeneradaDiaria" class="form-label">Electricidad Generada Diaria:</label>
+                <input type="number" name="electricidadGeneradaDiaria" id="electricidadGeneradaDiaria" class="form-control" value="{{ proyecto.get('electricidadGeneradaDiaria', 0) }}" required>
+            </div>
+        </div>
+        <button type="submit" class="btn btn-success mt-4 w-100">Guardar</button>
+    </form>
+</div>
+{% endblock %}
